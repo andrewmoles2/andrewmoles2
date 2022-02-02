@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hello there, I'm Andrew 👋
+
+I'm a Learning Developer (Data Science Tools) at London School of Economics and Political Science (LSE)
+
+- 🔭 I’m currently working on figuring out how generative art works
+- 🌱 I’m currently learning as much as I can, including HTML, CSS, and JavaScript
+- 💬 Ask me about: plants and dinosaurs
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love museums, plants, dinosaurs, and data viz
+
+Languages and Tools:
+
+[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />][R]
+
+<img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/RStudio.png" />
+
+<img align="left" alt="tidyverse" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/tidyverse.png" />
+
+<img align="left" alt="ggplot" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/ggplot2.png" />
+
+<img align="left" alt="tidymodel" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/tidymodels.png" />
+
+<img align="left" alt="rmarkdown" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/rmarkdown.png" />
+
+<img align="left" alt="reticulate" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/reticulate.png" />
+
+<img align="left" alt="python" width="26px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
+
+<img align="left" alt="numpy" width="26px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
+
+<img align="left" alt="pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <!--
 **andrewmoles2/andrewmoles2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+emojis - https://gist.github.com/rxaviers/7360908
+R hex stickers - https://github.com/rstudio/hex-stickers/
+Add links to each page for each image
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+add Connect with me:
 -->
+
+[R]: https://www.r-project.org/
