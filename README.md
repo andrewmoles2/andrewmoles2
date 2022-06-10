@@ -4,7 +4,7 @@ I'm a Learning Developer (Data Science Tools) at London School of Economics and 
 
 - 🔭 I’m currently working on figuring out how generative art works
 - 🌱 I’m currently learning as much as I can, including HTML, CSS, and JavaScript
-- 💬 Ask me about: plants and dinosaurs
+- 💬 Ask me about: plants 🌳 and dinosaurs 🦕 🦖 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love museums, plants, dinosaurs, and data viz
 
