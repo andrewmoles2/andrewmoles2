@@ -1,9 +1,11 @@
 ### Hello there, I'm Andrew 👋
 
+<img align="center" alt="flow field gif" width="300px" src="https://raw.githubusercontent.com/andrewmoles2/Flow_Fields/main/outputs/running_to_streams.gif" />
+
 I'm a Learning Developer (Data Science Tools) at London School of Economics and Political Science (LSE). This means I am a trainer and courseware developer for data science tools such as R and Python. 
 
-- 🔭 I’m currently working on figuring out how generative art works
-- 🌱 I’m currently learning as much as I can, including HTML, CSS, and JavaScript
+- 🔭 I’m working on figuring out how generative art works, primarily using R <img align="center" alt="flow field wave gif" width="30px" src="https://github.com/andrewmoles2/Flow_Fields/blob/main/outputs/moving_wave.gif?raw=true" />
+- 🌱 I’m currently learning as much as I can, including getting better at HTML, CSS, and learning machine learning in Python (previously just been using R)
 - 💬 Ask me about: plants 🌳 and dinosaurs 🦕 🦖 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love museums, plants, dinosaurs, and data viz
@@ -31,16 +33,6 @@ Languages and Tools:
 
 <img align="left" alt="reticulate" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/thumbs/reticulate.png" />
 
-<img align="left" alt="python" width="60px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
-
-<img align="left" alt="numpy" width="60px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
-
-<img align="left" alt="pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-
-<img align="left" alt="matplotlib" width="60px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
-
-<img align="left" alt="plotnine" width="26px" src="https://raw.githubusercontent.com/has2k1/plotnine/main/doc/images/logo-180.png" />
-
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -48,6 +40,18 @@ Languages and Tools:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
+
+<img align="right" alt="python" width="60px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
+
+<img align="right" alt="numpy" width="60px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
+
+<img align="right" alt="pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+
+<img align="right" alt="matplotlib" width="60px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
+
+<img align="center" alt="plotnine" width="26px" src="https://raw.githubusercontent.com/has2k1/plotnine/main/doc/images/logo-180.png" />
+
+
 
 
 <!--
